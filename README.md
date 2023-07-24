@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Diego a Software Engineer based on Santiago, Chile
-- 🌱 I’m currently learning and improving in Javascript and React
 - 📫 How to reach me: ruglehjs@gmail.com
 
 <!---
